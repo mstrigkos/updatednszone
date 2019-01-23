@@ -1,4 +1,4 @@
-# UPDATE DNS ZONE
+# UPDATE SUBDOMAIN A RECORD ON DNS ZONE
 
 This bash script changes an A record for a specific subdomain on your DNS Zone
 
